@@ -1,0 +1,4 @@
+{
+    "npm.enableRunFromFolder": true,
+    "debug.node.autoAttach": "on"
+}
